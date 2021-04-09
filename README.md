@@ -6,13 +6,13 @@
 I am Paul Nogier,
 Fascinated about programming since a long time,
 
-I studied web and mobile app development, then I co-founded a company, built from scratch the mobile app using React Native and Firebase.
+I studied web and mobile app development, then I co-founded 2 companies, built from scratch the apps using React, React Native, Node and Firebase.
 
-- 🌱  I’m currently learning Vue.js and still learning React and React Native to be at the top. I'm also willing to learn Swift to develop native IOS apps.
-- 👯  I’m looking to collaborate on new projects carried by young startups.
+- 🌱  I’m  willing to learn Swift to develop native IOS apps.
+- 👯  I’m looking to collaborate on various projects.
 - 💬  Ask me about React Native if you have any trouble.
 - 📫  How to reach me: 
     - Mail: pnogiercontact@gmail.com
-    - Phone: +33625815073
+    - Whatsapp: +33625815073
     - LinkedIn: Paul Nogier
 
