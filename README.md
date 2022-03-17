@@ -12,3 +12,5 @@ I am currently working at Archie as a React & React Native developer to helps co
     - Mail: pnogiercontact@gmail.com
     - LinkedIn: Paul Nogier
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnogier&count_private=true)
