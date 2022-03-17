@@ -17,4 +17,4 @@ I am currently working at Archie as a React & React Native developer to helps co
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnogier&show_icons=true&count_private=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
