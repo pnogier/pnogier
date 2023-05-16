@@ -6,7 +6,7 @@
 
 I am Paul Nogier,
 
-I am currently working at Archie as a React & React Native developer to helps companies and coworkings spaces to manage their workspaces.
+I am currently working at Archie as a React & React Native developer to help companies and coworkings spaces manage their workspaces.
 
 - 💬  Ask me about React Native if you have any trouble.
 - 📫  How to reach me: 
