@@ -14,6 +14,6 @@ I am currently working at Archie as a React & React Native developer to help com
     - LinkedIn: Paul Nogier
 
 
-![pnogier's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnogier&show_icons=true&count_private=true&theme=dark&hide=prs)
+![pnogier's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnogier&show_icons=true&count_private=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark)
